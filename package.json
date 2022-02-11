@@ -1,0 +1,33 @@
+{
+  "name": "@keops-society/sass-compiler",
+  "version": "1.0.0",
+  "description": "An utility for generating css from scss files",
+  "main": "lib/index.js",
+  "bin": {
+    "sass-compiler": "bin/index.js"
+  },
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeopsSociety/SassCompiler.git"
+  },
+  "keywords": [
+    "SASS",
+    "CSS",
+    "SCSS",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Mansour Boutarbouch Mhaimeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeopsSociety/MagnetConfig/issues"
+  },
+  "homepage": "https://github.com/KeopsSociety/MagnetConfig#readme",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
