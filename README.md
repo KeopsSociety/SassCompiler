@@ -24,7 +24,7 @@ To use from code each time your application runs:
 
 ```javascript
 //import
-const compileSassFiles = require('sass-compiler');
+const compileSassFiles = require('@keops-society/sass-compiler');
 
 //define some paths
 const DIR_SASS_FILES = path.join(__dirname, 'sass');

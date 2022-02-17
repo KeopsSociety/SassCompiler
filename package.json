@@ -1,6 +1,6 @@
 {
   "name": "@keops-society/sass-compiler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An utility for generating css from scss files",
   "main": "lib/index.js",
   "bin": {
@@ -14,13 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/KeopsSociety/SassCompiler.git"
   },
-  "keywords": [
-    "SASS",
-    "SCSS",
-    "CSS",
-    "Node",
-    "JavaScript"
-  ],
+  "keywords": ["sass", "scss", "css", "style"],
   "author": "Mansour Boutarbouch Mhaimeur",
   "license": "ISC",
   "bugs": {
